@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceProductsService", "ECommerce.API\EcommerceProductsService.csproj", "{31E4C4FF-E797-4F68-A7CC-CC081A0B3147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceUserLoginService", "ECommerceUserLoginService\ECommerceUserLoginService.csproj", "{9C44F990-3BF3-44B0-930D-78FE89A9DD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E4C4FF-E797-4F68-A7CC-CC081A0B3147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E4C4FF-E797-4F68-A7CC-CC081A0B3147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E4C4FF-E797-4F68-A7CC-CC081A0B3147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E4C4FF-E797-4F68-A7CC-CC081A0B3147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C44F990-3BF3-44B0-930D-78FE89A9DD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C44F990-3BF3-44B0-930D-78FE89A9DD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C44F990-3BF3-44B0-930D-78FE89A9DD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C44F990-3BF3-44B0-930D-78FE89A9DD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D309BB-FB79-45A5-A292-29B86DF985DC}
+	EndGlobalSection
+EndGlobal
